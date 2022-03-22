@@ -1,0 +1,32 @@
+[
+  {
+    "remote": "github",
+    "repository": "ok-ano0s/android_vendor_realme_RMX1941-ims",
+    "target_path": "vendor/realme/RMX1941-ims",
+    "branch": "twelve"
+  },
+  {
+    "remote": "github",
+    "repository": "ok-ano0s/android_packages_apps_RealmeParts",
+    "target_path": "packages/apps/RealmeParts",
+    "branch": "aosp12"
+  },
+  {
+    "remote": "github",
+    "repository": "ok-ano0s/android_vendor_realme_RMX1941",
+    "target_path": "vendor/realme/RMX1941",
+    "branch": "twelve"
+  },
+  {
+    "repository": "P-Salik/android_kernel_realme_karashi",
+    "remote": "github",
+    "target_path": "kernel/realme/RMX1941",
+    "branch": "android-10.0"
+  },
+    {
+    "repository": "ArrowOS/android_device_mediatek_sepolicy_vndr",
+    "remote": "github",
+    "target_path": "device/mediatek/sepolicy_vndr",
+    "branch": "arrow-12.1"
+  }
+]
