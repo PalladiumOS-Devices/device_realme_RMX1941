@@ -15,13 +15,13 @@
     "remote": "github",
     "repository": "ok-ano0s/android_vendor_realme_RMX1941",
     "target_path": "vendor/realme/RMX1941",
-    "branch": "twelve"
+    "branch": "twelve-L"
   },
   {
-    "repository": "P-Salik/android_kernel_realme_karashi",
+    "repository": "techyminati/realme_C2_AndroidP-kernel-source",
     "remote": "github",
     "target_path": "kernel/realme/RMX1941",
-    "branch": "android-10.0"
+    "branch": "master"
   },
     {
     "repository": "ArrowOS/android_device_mediatek_sepolicy_vndr",
